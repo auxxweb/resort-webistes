@@ -4,8 +4,8 @@ This repository contains multiple resort websites, each hosted via GitHub Pages.
 
 | Resort Name | Website Link |
 |-------------|--------------|
-| hiroto-master     | [Visit Demo](https://auxxweb.github.io/resort-webistes/hiroto-master/) |
-| luxury-hotel-master     | [Visit Demo](https://auxxweb.github.io/resort-webistes/luxury-hotel-master/) |
-| sativa-hotel-resort-html-template     | [Visit Demo](https://auxxweb.github.io/resort-webistes/sativa-hotel-resort-html-template/) |
-| sona-master    | [Visit Demo](https://auxxweb.github.io/resort-webistes/sona-master/) |
-| vacayhome-master    |  [Visit Demo](https://auxxweb.github.io/resort-webistes/vacayhome-master/) |
+| Hiroto-master | [Visit Hiroto-master](https://auxxweb.github.io/resort-webistes/hiroto-master/) |
+| Luxury-hotel-master | [Visit Luxury-hotel-master](https://auxxweb.github.io/resort-webistes/luxury-hotel-master/) |
+| Sativa-hotel-resort-html-template | [Visit Sativa-hotel-resort-html-template](https://auxxweb.github.io/resort-webistes/sativa-hotel-resort-html-template/) |
+| Sona-master | [Visit Sona-master](https://auxxweb.github.io/resort-webistes/sona-master/) |
+| Vacayhome-master | [Visit Vacayhome-master](https://auxxweb.github.io/resort-webistes/vacayhome-master/) |
