@@ -4,6 +4,7 @@ This repository contains multiple resort websites, each hosted via GitHub Pages.
 
 | Resort Name | Website Link |
 |-------------|--------------|
+| Architech-1 | [Visit Architech-1](https://auxxweb.github.io/resort-webistes/architech-1/) |
 | Hiroto-master | [Visit Hiroto-master](https://auxxweb.github.io/resort-webistes/hiroto-master/) |
 | Homie-resort-website | [Visit Homie-resort-website](https://auxxweb.github.io/resort-webistes/Homie-resort-website/) |
 | Luxury-hotel-master | [Visit Luxury-hotel-master](https://auxxweb.github.io/resort-webistes/luxury-hotel-master/) |
